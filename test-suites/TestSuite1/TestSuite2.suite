@@ -1,0 +1,157 @@
+{
+  "testCaseList": [
+    {
+      "uuid": "51cb61d5-ab5e-4f31-b0fc-bfdb977128c0",
+      "disable": false,
+      "caseUUID": "38db7c35-5e7f-400a-b350-1b8c708e6859",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "1fe77d7e-3ba3-4b66-b6e6-9a6c0a55ad8a",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "84ecbecb-5813-4fc0-a379-1dc17ffe3445",
+      "disable": false,
+      "caseUUID": "b04cacdf-7cb2-4c41-bf72-f27997700823",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "195986cc-0085-4301-a805-f91b395f8354",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "ff2e5921-b885-4226-a89f-70826689092e",
+      "disable": false,
+      "caseUUID": "41af306b-81cf-47ac-9ca0-71a1c0e97987",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "500ee064-a162-4474-9d30-f67d6312454c",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "e7f9acc6-547c-4e49-a84f-11414c556790",
+      "disable": false,
+      "caseUUID": "2cf1e349-f84f-45f8-8101-f871faf18209",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "0b9fdcc3-38d9-49cd-8f29-1b9945e59a8e",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "1c545fe8-f383-4313-a603-6574db70e4f9",
+      "disable": false,
+      "caseUUID": "c987c62b-2aeb-4304-b19a-9ce78d50aa49",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "337c1c6c-435f-4874-b6ef-908aae308adb",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "concurrent": 3,
+  "platform": "Web",
+  "uuid": "d2b1b0b8-4afb-4d8e-8463-1177b607cdf4"
+}

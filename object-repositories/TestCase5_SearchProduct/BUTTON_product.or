@@ -1,0 +1,70 @@
+{
+  "locatorList": [
+    {
+      "strategy": "ID",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Name",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Linktext",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Partial Linktext",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Tag Name",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Class",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "CSS",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "XPath",
+      "value": "//a[@href\u003d\u0027/products\u0027]",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Image",
+      "value": "",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "f4015bb1-f75e-4257-981f-6ad35e324810"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "f4015bb1-f75e-4257-981f-6ad35e324810"
+}

@@ -80,38 +80,6 @@
       "captureImg": false
     },
     {
-      "uuid": "217c52f1-7df2-4a1d-99d8-7588e0c0b609",
-      "name": "Wait",
-      "platform": {
-        "type": "core",
-        "displayName": "",
-        "capUUID": ""
-      },
-      "objRepo": [],
-      "params": [
-        {
-          "name": "timeout",
-          "type": "Integer",
-          "defaultValue": "3",
-          "source": ""
-        }
-      ],
-      "output": {
-        "name": "",
-        "type": "void",
-        "defaultValue": "",
-        "source": ""
-      },
-      "keywordPath": "8",
-      "keywordSource": "internal",
-      "keywordMethod": "wait",
-      "description": "",
-      "failureHandling": "STOP_ON_FAILURE",
-      "failureDescription": "",
-      "enable": true,
-      "captureImg": false
-    },
-    {
       "uuid": "da9a4ae0-858b-42e0-aac5-a8e793f3e973",
       "name": "Click",
       "platform": {
@@ -414,38 +382,6 @@
       "captureImg": false
     },
     {
-      "uuid": "e241d600-14e9-4b49-9237-f0add6fc1a9e",
-      "name": "Open Browser",
-      "platform": {
-        "type": "Web",
-        "displayName": "",
-        "capUUID": ""
-      },
-      "objRepo": [],
-      "params": [
-        {
-          "name": "url",
-          "type": "String",
-          "defaultValue": "https://automationexercise.com/",
-          "source": ""
-        }
-      ],
-      "output": {
-        "name": "",
-        "type": "void",
-        "defaultValue": "",
-        "source": ""
-      },
-      "keywordPath": "118",
-      "keywordSource": "internal",
-      "keywordMethod": "openBrowser",
-      "description": "",
-      "failureHandling": "STOP_ON_FAILURE",
-      "failureDescription": "",
-      "enable": true,
-      "captureImg": false
-    },
-    {
       "uuid": "4f8bd84b-9f56-49d8-afe4-0f5f246af6b6",
       "name": "Verify Element Visible",
       "platform": {
@@ -513,7 +449,7 @@
       "description": "",
       "failureHandling": "STOP_ON_FAILURE",
       "failureDescription": "",
-      "enable": true,
+      "enable": false,
       "captureImg": false
     },
     {
@@ -536,7 +472,7 @@
         {
           "name": "timeout",
           "type": "Integer",
-          "defaultValue": "4",
+          "defaultValue": "5",
           "source": ""
         }
       ],
@@ -552,7 +488,7 @@
       "description": "",
       "failureHandling": "STOP_ON_FAILURE",
       "failureDescription": "",
-      "enable": true,
+      "enable": false,
       "captureImg": false
     }
   ],
