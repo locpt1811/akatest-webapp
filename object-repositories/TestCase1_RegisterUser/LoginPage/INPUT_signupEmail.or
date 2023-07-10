@@ -1,0 +1,70 @@
+{
+  "locatorList": [
+    {
+      "strategy": "ID",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Name",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Linktext",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Partial Linktext",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Tag Name",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Class",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "CSS",
+      "value": "",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "XPath",
+      "value": "(//input[@data-qa\u003d\u0027signup-email\u0027])[1]",
+      "type": [],
+      "active": true
+    },
+    {
+      "strategy": "Image",
+      "value": "",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "58486f96-c7ab-42af-9953-f979740476be"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "58486f96-c7ab-42af-9953-f979740476be"
+}

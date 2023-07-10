@@ -1,0 +1,97 @@
+{
+  "testCaseList": [
+    {
+      "uuid": "4d83951b-2e1c-446e-a334-12606bed2ffd",
+      "disable": false,
+      "caseUUID": "c987c62b-2aeb-4304-b19a-9ce78d50aa49",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "8942ed3f-7604-4aed-b2ae-d7020f2d8d80",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "8c8ff1d1-c604-4474-973a-31b3de768309",
+      "disable": false,
+      "caseUUID": "2cf1e349-f84f-45f8-8101-f871faf18209",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "67195258-4447-4793-a017-b368cbbb79dc",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "c02491db-4647-4f37-ae77-47d44f262edf",
+      "disable": false,
+      "caseUUID": "41af306b-81cf-47ac-9ca0-71a1c0e97987",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "0b2433e1-7a59-4cdc-8539-8da31f22b55e",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "concurrent": 1,
+  "platform": "Web",
+  "uuid": "d29ca31a-9d1c-4dd3-9ba8-4e389f086e2b"
+}

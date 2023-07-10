@@ -1,0 +1,30 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "html/body/section/div/div/div[1]/div/form/input[2]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "Name",
+      "value": "email",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "68cdfe5c-a809-4695-8c0b-f5d69b8e09af"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "68cdfe5c-a809-4695-8c0b-f5d69b8e09af"
+}

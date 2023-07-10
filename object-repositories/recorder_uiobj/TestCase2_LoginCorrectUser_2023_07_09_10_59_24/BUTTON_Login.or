@@ -1,0 +1,30 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//button[text()\u003d\u0027Login\u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/section/div/div/div[1]/div/form/button",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "66a1c580-7da1-4e55-beb1-a67a20590522"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "66a1c580-7da1-4e55-beb1-a67a20590522"
+}

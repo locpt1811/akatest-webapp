@@ -1,0 +1,37 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//a[text()\u003d\u0027 Logged in as \u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/header/div/div/div/div[2]/div/ul/li[10]/a",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "Linktext",
+      "value": " Logged in as ",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "640736a2-c624-43bc-a0e2-b70d09fc97f3"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "640736a2-c624-43bc-a0e2-b70d09fc97f3"
+}

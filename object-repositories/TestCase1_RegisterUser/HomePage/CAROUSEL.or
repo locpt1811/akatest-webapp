@@ -1,0 +1,22 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//div[@id\u003d\u0027slider-carousel\u0027]",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "4d0de35c-3431-4eee-be0e-a89527d86c58"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "4d0de35c-3431-4eee-be0e-a89527d86c58"
+}

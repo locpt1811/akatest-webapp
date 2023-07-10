@@ -1,0 +1,9 @@
+{
+  "suiteMapping": {
+    "d29ca31a-9d1c-4dd3-9ba8-4e389f086e2b": [
+      {"roundBindingId":"4d83951b-2e1c-446e-a334-12606bed2ffd","tcId":"c987c62b-2aeb-4304-b19a-9ce78d50aa49","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"8c8ff1d1-c604-4474-973a-31b3de768309","tcId":"2cf1e349-f84f-45f8-8101-f871faf18209","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"c02491db-4647-4f37-ae77-47d44f262edf","tcId":"41af306b-81cf-47ac-9ca0-71a1c0e97987","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""}
+    ]
+  }
+}

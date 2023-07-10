@@ -1,0 +1,22 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "(//a[normalize-space()\u003d\u0027Signup / Login\u0027])[1]",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "b202465f-029f-4c92-b5e4-d81b8633f90d"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "b202465f-029f-4c92-b5e4-d81b8633f90d"
+}

@@ -1,0 +1,37 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//a[text()\u003d\u0027 Delete Account\u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/header/div/div/div/div[2]/div/ul/li[5]/a",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "Linktext",
+      "value": " Delete Account",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "f75cce62-afda-435b-8dea-e5e386c82b96"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "f75cce62-afda-435b-8dea-e5e386c82b96"
+}

@@ -1,0 +1,37 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//input[@name\u003d\u0027password\u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/section/div/div/div[1]/div/form/input[3]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "Name",
+      "value": "password",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "6c4fe597-e0df-4097-90b2-b46b0376e8d5"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "6c4fe597-e0df-4097-90b2-b46b0376e8d5"
+}

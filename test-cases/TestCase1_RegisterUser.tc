@@ -1,0 +1,345 @@
+{
+  "varNode": {
+    "descendants": {
+      "INPUT": {
+        "descendants": {}
+      },
+      "REPO": {
+        "descendants": {}
+      },
+      "OUTPUT": {
+        "descendants": {}
+      },
+      "KEYWORD": {
+        "descendants": {}
+      }
+    },
+    "value": "38db7c35-5e7f-400a-b350-1b8c708e6859"
+  },
+  "platform": {
+    "type": "Web",
+    "displayName": "Web"
+  },
+  "setUpList": [],
+  "stepList": [
+    {
+      "uuid": "ba10240c-9357-4157-afc7-2f7a921a5abe",
+      "name": "Open Browser",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [],
+      "params": [
+        {
+          "name": "url",
+          "type": "String",
+          "defaultValue": "http://automationexercise.com",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "118",
+      "keywordSource": "internal",
+      "keywordMethod": "openBrowser",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "63973456-94c4-4a06-9d76-eb0d4b428c1d",
+      "name": "Maximize Current Window",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [],
+      "params": [],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "246",
+      "keywordSource": "internal",
+      "keywordMethod": "maximizeCurrentWindow",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "f3767a05-bb56-4dc4-a7c5-73483638bbeb",
+      "name": "Verify Element Visible",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Web UIObject",
+          "defaultValue": "4d0de35c-3431-4eee-be0e-a89527d86c58",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "timeout",
+          "type": "Integer",
+          "defaultValue": "4",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "188",
+      "keywordSource": "internal",
+      "keywordMethod": "verifyElementVisible",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "7b852891-992a-4090-907c-1f56b3d63023",
+      "name": "Click",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Web UIObject",
+          "defaultValue": "b202465f-029f-4c92-b5e4-d81b8633f90d",
+          "source": ""
+        }
+      ],
+      "params": [],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "141",
+      "keywordSource": "internal",
+      "keywordMethod": "click",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "33fe586f-facb-42ff-8990-fb174c8f83cd",
+      "name": "Verify Element Visible",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Web UIObject",
+          "defaultValue": "60c03eef-d37f-41ee-bdce-5f9273c2c16d",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "timeout",
+          "type": "Integer",
+          "defaultValue": "4",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "188",
+      "keywordSource": "internal",
+      "keywordMethod": "verifyElementVisible",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "1a94a19b-7ecc-4b54-960b-37c0ffe6901c",
+      "name": "Send Keys",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Web UIObject",
+          "defaultValue": "867f3efb-8170-489a-99a4-a6f135792a8e",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "keys",
+          "type": "String",
+          "defaultValue": "Loc Pham",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "153",
+      "keywordSource": "internal",
+      "keywordMethod": "sendKeys",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "c5d087c3-2f50-4f58-ae47-a8cba98d2e32",
+      "name": "Send Keys",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Web UIObject",
+          "defaultValue": "58486f96-c7ab-42af-9953-f979740476be",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "keys",
+          "type": "String",
+          "defaultValue": "locptse173513@fpt.edu.vn",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "153",
+      "keywordSource": "internal",
+      "keywordMethod": "sendKeys",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "5147381a-d324-4072-a2d9-378e95aca77e",
+      "name": "Click",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Web UIObject",
+          "defaultValue": "a631f48e-07a2-4cb2-8520-9fb58f5167be",
+          "source": ""
+        }
+      ],
+      "params": [],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "141",
+      "keywordSource": "internal",
+      "keywordMethod": "click",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "297da518-1fd1-4ba2-aa66-602e5ed72605",
+      "name": "Verify Element Visible",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Web UIObject",
+          "defaultValue": "c3a9c3f0-2c4f-484c-93f5-4a26096fdddb",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "timeout",
+          "type": "Integer",
+          "defaultValue": "5",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "188",
+      "keywordSource": "internal",
+      "keywordMethod": "verifyElementVisible",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    }
+  ],
+  "tearDownList": [],
+  "managerId": "",
+  "uuid": "38db7c35-5e7f-400a-b350-1b8c708e6859"
+}
